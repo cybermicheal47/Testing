@@ -1,4 +1,3 @@
-import React from "react";
 import Productimg from "../assets/product.png";
 import "./Product.css";
 
